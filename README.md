@@ -21,9 +21,9 @@ I'm a Senior Systems Engineer with a passion for data science and machine learni
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://www.linkedin.com/in/alberto-vidal-rodriguez-bobada-3a49a6119/"><img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-        <a href="https://www.kaggle.com/albertovidalrod"><img src=https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a> 
-        <a href="mailto:albertovidalrod@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+        <a href="https://www.linkedin.com/in/alberto-vidal-rodriguez-bobada-3a49a6119/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+        <a href="https://www.kaggle.com/albertovidalrod"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a> 
+        <a href="mailto:albertovidalrod@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 
    </p>
 
